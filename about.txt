@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 I added these parts and enjoyed it.
 
 I had to fight with my computer
+=======
+I added these parts and enjoyed it. - Poppy Nevin-Adley
+
+>>>>>>> 706f4ce37cfd4c98b7b5f58bda478315925b60b3
