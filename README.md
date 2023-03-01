@@ -1,19 +1,20 @@
 
-Title: Correlation between Deforestation and Exports in Brazil.
+#Title: Correlation between Deforestation and Exports in Brazil.
+
 Members of the group:
 o Pedro Da Rocha
 o Poppy Nevin-Adley
 
-Goal of the project:
+## Goal of the project:
 o Our goal will be to find the relationships between Deforestation and Exports.
 
-Tools:
+## Tools:
 Tableau
 Granger Causality
 Vector Amira
 
 
-Planning of the project:
+### Planning of the project:
 o Day 1 - EDA
  Find dataset
  Start to work with EDA
